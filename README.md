@@ -1,6 +1,9 @@
 # song_app
 song listing app
-clone the given folder and then run command >> npm install
+download the folder or clone and then 
+open vs code open downloaded folder(extracted folder)
+open integrated root terminal then
+run command >> npm install
 
 then install monogodb community server and mongodb compass tool
 
